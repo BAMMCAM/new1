@@ -13,6 +13,8 @@ public class Something {
 			driver.get("http://www.google.co.uk");
 			int j;
 			
+			int p;
+			
 	}
 
 }
