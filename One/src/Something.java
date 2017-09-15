@@ -11,6 +11,7 @@ public class Something {
 			WebDriver driver = new ChromeDriver();
 			
 			driver.get("http://www.google.co.uk");
+			int j;
 			
 	}
 
