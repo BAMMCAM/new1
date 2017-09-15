@@ -15,6 +15,8 @@ public class Something {
 			
 			int p;
 			
+			String s;
+			
 	}
 
 }
